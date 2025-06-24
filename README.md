@@ -6,12 +6,12 @@ Welcome to my central repository for the **#100Devs** bootcamp! This space is de
 
 ## 🧭 Core Philosophy: Learning How to Learn
 
-The most critical skill in tech is learning how to learn effectively. My approach is grounded in proven cognitive science techniques to ensure I'm not just memorizing, but truly understanding the material.
+The most critical skill in tech is learning how to learn effectively. My approach is grounded into proven cognitive science techniques to ensure I'm not just memorizing, but truly understanding the material.
 
 - **Core Training:** **[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)** on Coursera forms the foundation of my study habits.
 
 ### My Study Method
-To treat this bootcamp like a final exam every single day, I use the following methods:
+To test and practice what I am studying from this bootcamp, I use the following methods:
 
 - **🧠 Active Recall & Revision:** Applying evidence-based revision strategies. **[Watch: Revision Tips](https://www.youtube.com/watch?v=ukLnPbIffxE)**
 - **🗓️ Spaced Repetition:** Using tools like **[AnkiWeb](https://ankiweb.net/about)** for flashcards to commit key concepts to long-term memory. **[Watch: The Power of Spaced Repetition](https://www.youtube.com/watch?v=Z-zNHHpXoMM)**
@@ -66,12 +66,12 @@ The journey begins with the building blocks of the web. This module focuses on c
 - **Technical Documentation:** [MDN Web Docs for HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ### Class Lessons
-| Lesson | Topic | Watch Link |
-| :--- | :--- | :---: |
-| **01** | Intro to #100Devs, HTML Basics | [▶️ Watch](http.googleusercontent.com/youtube.com/2) |
-| **02** | CSS Fundamentals, Box Model | [▶️ Watch](https://youtu.be/eCRbEILXXmE) |
-| **03** | Selectors, Specificity, and Advanced CSS | [▶️ Watch](https://youtu.be/rdWM6kUImjE) |
-| **04** | Responsive Design, Flexbox Basics | [▶️ Watch](https://youtu.be/eCRbEILXXmE) |
+| Lesson | Topic | Watch Link | Materials |
+| :--- | :--- | :---: | :--- |
+| **01** | Intro to #100Devs, HTML Basics | [▶️ Watch](https://youtu.be/o3IIobN4xR0) | [📄 Homework](lessons/class-01-materials) |
+| **02** | CSS Fundamentals, Box Model | [▶️ Watch](https://youtu.be/eCRbEILXXmE) | [📄 Homework](lessons/class-02-materials) ||
+| **03** | Selectors, Specificity, and Advanced CSS | [▶️ Watch](https://youtu.be/rdWM6kUImjE) |[📄 Homework](lessons/class-03-materials) ||
+| **04** | Responsive Design, Flexbox Basics | [▶️ Watch](https://youtu.be/eCRbEILXXmE) | --- |
 
 ### Notes & Projects
 My detailed notes, exercises, and the first project for this module are documented in a dedicated repository.
